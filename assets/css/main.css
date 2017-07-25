@@ -2566,6 +2566,7 @@
 		color: #fff;
 	}
 
+
 	header.style1, header.style2, header.style3, header.style4 {
 		background-image: url("images/overlay.png"), url("images/checker-pattern.svg");
 		background-position: center top;
