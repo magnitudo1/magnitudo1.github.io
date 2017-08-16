@@ -1847,7 +1847,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #484459;
+			background-color: #2ecc71;
 			border-color: transparent;
 			color: #fff !important;
 		}
@@ -1865,6 +1865,29 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
+				background-color: #363343;
+			}
+
+        button.payment,
+		.button.payment {
+			background-color: #2ecc71;
+			border-color: transparent;
+			color: #fff !important;
+		}
+
+			input[type="submit"].payment:hover,
+			input[type="reset"].payment:hover,
+			input[type="button"].payment:hover,
+			button.payment:hover,
+			.button.payment:hover {
+				background-color: #5a556f;
+			}
+
+			input[type="submit"].payment:active,
+			input[type="reset"].payment:active,
+			input[type="button"].payment:active,
+			button.payment:active,
+			.button.payment:active {
 				background-color: #363343;
 			}
 
