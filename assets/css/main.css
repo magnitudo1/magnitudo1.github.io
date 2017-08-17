@@ -1894,7 +1894,7 @@
 
     button.getstarted,
 		.button.getstarted {
-			background-color: #59abe3;
+			background-color: #e5d4ed;
 			border-color: transparent;
 			color: #fff !important;
 		}
@@ -2179,7 +2179,7 @@
 		}
 
 		.icon.style1 {
-			color: #999;
+			color: #E5D4ED; /* purple */
 		}
 
 		.icon.style2 {
@@ -2195,7 +2195,7 @@
 		}
 
 		.icon.style5 {
-			color: #A2DED0;
+			color: #2ecc71; /* green */
 		}
 
 /* Image */
@@ -2604,7 +2604,7 @@
 	}
 
 	header.style3 {
-		background-color: #ba6262;
+		background-color: #e5d4ed;
 		color: #fff;
 	}
 
@@ -3039,7 +3039,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #ba6262;
+			background-color: #e5d4ed;
 			color: #fff;
 		}
 
@@ -3291,7 +3291,7 @@
 				}
 
 		.wrapper.style3 {
-			background-color: #A2DED0;
+			background-color: #ba6262;
 			color: #fff;
 		}
 
@@ -3543,7 +3543,7 @@
 				}
 
 		.wrapper.style4 {
-			background-color: #59abe3;
+			background-color: #000;
 			color: #fff;
 		}
 
@@ -3585,7 +3585,7 @@
 			.wrapper.style4 input[type="button"],
 			.wrapper.style4 button,
 			.wrapper.style4 .button {
-				background-color: transparent;
+				background-color: #2ecc71;
 				border-color: rgba(255, 255, 255, 0.15);
 				color: #fff !important;
 			}
