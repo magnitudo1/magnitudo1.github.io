@@ -1894,7 +1894,7 @@
 
     button.getstarted,
 		.button.getstarted {
-			background-color: #e5d4ed;
+			background-color: #22A7F0;
 			border-color: transparent;
 			color: #fff !important;
 		}
@@ -2179,7 +2179,7 @@
 		}
 
 		.icon.style1 {
-			color: #e5d4ed; /* purple */
+			color: #22A7F0; /* purple */
 		}
 
 		.icon.style2 {
@@ -2195,7 +2195,7 @@
 		}
 
 		.icon.style5 {
-			color: #000; /* black */
+			color: #2ecc71; /* black */
 		}
 
 /* Image */
@@ -2604,7 +2604,7 @@
 	}
 
 	header.style3 {
-		background-color: #e5d4ed;
+		background-color: #22A7F0;
 		color: #fff;
 	}
 
@@ -3039,7 +3039,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #e5d4ed;
+			background-color: #22A7F0;
 			color: #fff;
 		}
 
