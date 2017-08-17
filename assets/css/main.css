@@ -1943,7 +1943,7 @@
 		border-radius: 4px;
 		border: none;
 		border: solid 2px;
-		color: inherit;
+		color: #fff;
 		display: block;
 		margin-bottom: 1.68em;
 		outline: 0;
@@ -2609,7 +2609,7 @@
 	}
 
 	header.style4 {
-		background-color: #b67e96;
+		background-color: #2ecc71;
 		color: #fff;
 	}
 
